@@ -1,0 +1,24 @@
+body {
+    background-color: #CC998D;
+}
+
+#head1 {
+    color: #16F4D0;
+}
+
+.navzone {
+    color: #429EA6;
+}
+
+.content {
+    color: #153B50;
+}
+
+.extreme {
+    text-shadow: -15px -15px black;
+    text-align: center;
+}
+
+.prose {
+    border: 10px groove red;
+}

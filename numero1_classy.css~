@@ -1,0 +1,7 @@
+body {
+    background-color: #CC998D
+}
+
+#head1 {
+    color: #16F4DO
+}
