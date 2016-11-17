@@ -1,0 +1,25 @@
+body {
+     text-align: center;
+     background-color: yellow;
+}
+
+h1 {
+   color: blue;
+}
+
+h2 {
+   color: red;
+}
+
+h3 {
+   color: green;
+}
+
+ul {
+   text-align: left;
+   list-style-type: upper-roman;
+}
+
+p {
+  font-size: 40px;
+}
